@@ -1,2 +1,2 @@
 # VikitaFusion
- This repository contains supplementary materials for the manuscript "VikitaFusion: Object Recognition based on Heterogeneous Visual-Kinesthetic-Tactile Information" (currently under review). Full code will be released upon acceptance following IEEE IEEE Transactions on Multimedia (TMM)'s open access policy.
+ This repository contains supplementary materials for the manuscript "VikitaFusion: Object Recognition based on Heterogeneous Visual-Kinesthetic-Tactile Information", which has been accepted by IEEE Transactions on Multimedia (TMM). Full code will be released upon publication following TMM's open access policy.
